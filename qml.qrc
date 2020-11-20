@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SnackBarBasicItem.qml</file>
+        <file>SnackBarForTelCome.qml</file>
+        <file>SnackBarForMessage.qml</file>
+        <file>SnackBarForVolume.qml</file>
+        <file>SnackBarDelegateItem.qml</file>
+    </qresource>
+</RCC>
